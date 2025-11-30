@@ -1,0 +1,29 @@
+{
+  "batch_id": 3149,
+  "topics": [
+    {
+      "id": 32121,
+      "topicName": "Intro"
+    },
+    {
+      "id": 32135,
+      "topicName": "History"
+    },
+    {
+      "id": 32136,
+      "topicName": "Geography"
+    },
+    {
+      "id": 32137,
+      "topicName": "Polity"
+    },
+    {
+      "id": 32138,
+      "topicName": "Art & Culture"
+    },
+    {
+      "id": 32139,
+      "topicName": "Economy"
+    }
+  ]
+}
