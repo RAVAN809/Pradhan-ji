@@ -1,0 +1,85 @@
+{
+  "batch_id": 2595,
+  "topics": [
+    {
+      "id": 26407,
+      "topicName": "Intro"
+    },
+    {
+      "id": 26414,
+      "topicName": "Arithmetic"
+    },
+    {
+      "id": 26415,
+      "topicName": "Advance"
+    },
+    {
+      "id": 26424,
+      "topicName": "English"
+    },
+    {
+      "id": 26416,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 27127,
+      "topicName": "Modern His"
+    },
+    {
+      "id": 26418,
+      "topicName": "Indian Geo"
+    },
+    {
+      "id": 26876,
+      "topicName": "World Geo"
+    },
+    {
+      "id": 26419,
+      "topicName": "Polity"
+    },
+    {
+      "id": 26421,
+      "topicName": "Economy"
+    },
+    {
+      "id": 26838,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 26420,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 26422,
+      "topicName": "Arith (VOD)"
+    },
+    {
+      "id": 26423,
+      "topicName": "Adv (VOD)"
+    },
+    {
+      "id": 27156,
+      "topicName": "Art & Culture"
+    },
+    {
+      "id": 28076,
+      "topicName": "Eng (VOD)"
+    },
+    {
+      "id": 26425,
+      "topicName": "Med. His"
+    },
+    {
+      "id": 31702,
+      "topicName": "Ancient History"
+    },
+    {
+      "id": 32576,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32577,
+      "topicName": "Physics"
+    }
+  ]
+}
