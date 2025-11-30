@@ -1,0 +1,61 @@
+{
+  "batch_id": 3091,
+  "topics": [
+    {
+      "id": 31584,
+      "topicName": "Intro"
+    },
+    {
+      "id": 31585,
+      "topicName": "Arithmetic"
+    },
+    {
+      "id": 31586,
+      "topicName": "Advance"
+    },
+    {
+      "id": 31587,
+      "topicName": "English"
+    },
+    {
+      "id": 31588,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 31589,
+      "topicName": "History"
+    },
+    {
+      "id": 31590,
+      "topicName": "Geography"
+    },
+    {
+      "id": 31591,
+      "topicName": "Polity"
+    },
+    {
+      "id": 31592,
+      "topicName": "Economy"
+    },
+    {
+      "id": 31593,
+      "topicName": "Physics"
+    },
+    {
+      "id": 31594,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 31595,
+      "topicName": "Biology"
+    },
+    {
+      "id": 31596,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 32977,
+      "topicName": "GS Revision"
+    }
+  ]
+}
