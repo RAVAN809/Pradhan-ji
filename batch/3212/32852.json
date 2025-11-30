@@ -1,0 +1,1312 @@
+{
+  "batchid": 3212,
+  "topicid": 32852,
+  "classes_total": 90,
+  "classes": [
+    {
+      "title": "Class-101 | Physics | Fluid",
+      "id": "4532749",
+      "date": "27-Aug-2025 21:00",
+      "video_url": "4532749_0_5082631023041943"
+    },
+    {
+      "title": "Class-100 | Physics | Fluid",
+      "id": "4531521",
+      "date": "26-Aug-2025 21:00",
+      "video_url": "4531521_0_9914717883894082"
+    },
+    {
+      "title": "Class-99 | Physics | Fluid",
+      "id": "4530145",
+      "date": "25-Aug-2025 21:00",
+      "video_url": "4530145_0_6713368960950140"
+    },
+    {
+      "title": "Class-98 | Physics | Units & Dimension",
+      "id": "4526909",
+      "date": "22-Aug-2025 08:00",
+      "video_url": "4526909_0_1435649055009762"
+    },
+    {
+      "title": "Class-97 | Physics | Units & Dimension",
+      "id": "4584857",
+      "date": "21-Aug-2025 08:00",
+      "video_url": "4584857_0_4390090611777283"
+    },
+    {
+      "title": "Class-96 | Physics | Units & Dimension",
+      "id": "4524630",
+      "date": "20-Aug-2025 08:00",
+      "video_url": "4524630_0_6647315895916187"
+    },
+    {
+      "title": "Class-95 | Physics | Simple Pendulum",
+      "id": "4523492",
+      "date": "19-Aug-2025 08:00",
+      "video_url": "4523492_0_4151794721153448"
+    },
+    {
+      "title": "Class-94 | Physics | Friction",
+      "id": "4522512",
+      "date": "18-Aug-2025 08:00",
+      "video_url": "4522512_0_5404890177337462"
+    },
+    {
+      "title": "Class-93 | Physics | Friction",
+      "id": "4520229",
+      "date": "14-Aug-2025 08:00",
+      "video_url": "4520229_0_5772851065666684"
+    },
+    {
+      "title": "Class-92 | Physics | Work Power & Energy",
+      "id": "4518913",
+      "date": "13-Aug-2025 08:00",
+      "video_url": "4518913_0_7017394243155125"
+    },
+    {
+      "title": "Class-91 | Physics | Work Power & Energy",
+      "id": "4517569",
+      "date": "12-Aug-2025 08:00",
+      "video_url": "4517569_0_4962099794820044"
+    },
+    {
+      "title": "Class-90 | Physics | Work Power & Energy",
+      "id": "4514530",
+      "date": "07-Aug-2025 08:00",
+      "video_url": "4514530_0_1826966425769130"
+    },
+    {
+      "title": "Class-89 | Physics | Work Power & Energy",
+      "id": "4513510",
+      "date": "06-Aug-2025 08:00",
+      "video_url": "4513510_0_1107448531092347"
+    },
+    {
+      "title": "Class-88 | Physics | Work Power & Energy",
+      "id": "4512481",
+      "date": "05-Aug-2025 08:00",
+      "video_url": "4512481_0_4048276024329339"
+    },
+    {
+      "title": "Class-87 | Physics | Work Power & Energy",
+      "id": "4511554",
+      "date": "04-Aug-2025 08:00",
+      "video_url": "4511554_0_8211299917736005"
+    },
+    {
+      "title": "Class-86 | Physics | Work Power & Energy",
+      "id": "4505891",
+      "date": "01-Aug-2025 08:00",
+      "video_url": "4505891_0_8740233488098123"
+    },
+    {
+      "title": "Class-85 | Physics | Projectile motion",
+      "id": "4503451",
+      "date": "30-Jul-2025 08:00",
+      "video_url": "4503451_0_6495530279236296"
+    },
+    {
+      "title": "Class-84 | Physics | Gravitation",
+      "id": "4501894",
+      "date": "29-Jul-2025 08:00",
+      "video_url": "4501894_0_3062163698772845"
+    },
+    {
+      "title": "Class-83 | Physics | Gravitation",
+      "id": "4495438",
+      "date": "28-Jul-2025 07:15",
+      "video_url": "4495438_0_7693066674497183"
+    },
+    {
+      "title": "Class-81 | Physics | Gravitation",
+      "id": "4491760",
+      "date": "24-Jul-2025 07:15",
+      "video_url": "4491760_0_7324350076730262"
+    },
+    {
+      "title": "Class-80 | Physics | Uniform Circular Motion",
+      "id": "4489982",
+      "date": "23-Jul-2025 07:15",
+      "video_url": "4489982_0_2887640787844774"
+    },
+    {
+      "title": "Class-79 | Physics | Newton Laws of Motion",
+      "id": "4488194",
+      "date": "22-Jul-2025 07:15",
+      "video_url": "4488194_0_6626508117812614"
+    },
+    {
+      "title": "Class-78 | Physics | Newton Laws of Motion",
+      "id": "4488981",
+      "date": "21-Jul-2025 07:15",
+      "video_url": "4488981_0_9828585526504224"
+    },
+    {
+      "title": "Class-77 | Physics | Newton Laws of Motion",
+      "id": "4485246",
+      "date": "18-Jul-2025 07:15",
+      "video_url": "4485246_0_9949236954631075"
+    },
+    {
+      "title": "Class-76 | Physics | Newton Laws of Motion",
+      "id": "4484206",
+      "date": "17-Jul-2025 07:15",
+      "video_url": "4484206_0_7551553642090130"
+    },
+    {
+      "title": "Class-75 | Physics | Kinematics",
+      "id": "4483166",
+      "date": "16-Jul-2025 07:15",
+      "video_url": "4483166_0_8689120853671695"
+    },
+    {
+      "title": "Class-74 | Kinematics",
+      "id": "4482112",
+      "date": "15-Jul-2025 07:15",
+      "video_url": "4482112_0_7647394583430972"
+    },
+    {
+      "title": "Class-73 | Kinematics",
+      "id": "4481083",
+      "date": "14-Jul-2025 07:15",
+      "video_url": "4481083_0_9866974804928343"
+    },
+    {
+      "title": "Class-72 | Kinematics",
+      "id": "4479306",
+      "date": "11-Jul-2025 07:15",
+      "video_url": "4479306_0_7248394051918361"
+    },
+    {
+      "title": "Class-71 | Kinematics",
+      "id": "4478249",
+      "date": "10-Jul-2025 07:15",
+      "video_url": "4478249_0_2954206125547716"
+    },
+    {
+      "title": "Class-70 | Kinematics",
+      "id": "4477050",
+      "date": "09-Jul-2025 07:15",
+      "video_url": "4477050_0_1193257764064736"
+    },
+    {
+      "title": "Class-69 | Kinematics",
+      "id": "4476096",
+      "date": "08-Jul-2025 07:15",
+      "video_url": "4476096_0_5698702459045910"
+    },
+    {
+      "title": "Class-68 | Kinematics",
+      "id": "4591022",
+      "date": "07-Jul-2025 07:15",
+      "video_url": "4591022_0_5799854153614481"
+    },
+    {
+      "title": "Class-59 | Heat",
+      "id": "4448763",
+      "date": "20-Jun-2025 08:00",
+      "video_url": "4448763_0_3335699671040264"
+    },
+    {
+      "title": "Class-58 | Heat",
+      "id": "4448760",
+      "date": "13-Jun-2025 08:00",
+      "video_url": "4448760_0_1508645609311353"
+    },
+    {
+      "title": "Class-57 | Lens & Mirror",
+      "id": "4450216",
+      "date": "12-Jun-2025 08:00",
+      "video_url": "4450216_0_7893506859605594"
+    },
+    {
+      "title": "Class-56 | Lens & Mirror",
+      "id": "4450215",
+      "date": "11-Jun-2025 08:00",
+      "video_url": "4450215_0_5524671920624926"
+    },
+    {
+      "title": "Class-55 | Lens & Mirror",
+      "id": "4450214",
+      "date": "10-Jun-2025 08:00",
+      "video_url": "4450214_0_3532540013650480"
+    },
+    {
+      "title": "Class-54 | Lens & Mirror",
+      "id": "4450213",
+      "date": "09-Jun-2025 08:00",
+      "video_url": "4450213_0_9418026199300675"
+    },
+    {
+      "title": "Class-53 | Lens & Mirror",
+      "id": "4450212",
+      "date": "06-Jun-2025 08:00",
+      "video_url": "4450212_0_6336673782398944"
+    },
+    {
+      "title": "Class-52 | Lens & Mirror",
+      "id": "4450211",
+      "date": "05-Jun-2025 08:00",
+      "video_url": "4450211_0_7569755055934045"
+    },
+    {
+      "title": "Class-51 | Lens & Mirror",
+      "id": "4450210",
+      "date": "04-Jun-2025 08:00",
+      "video_url": "4450210_0_1235451158491863"
+    },
+    {
+      "title": "Class-50 | Lens & Mirror",
+      "id": "4450209",
+      "date": "03-Jun-2025 08:00",
+      "video_url": "4450209_0_6548166238220138"
+    },
+    {
+      "title": "Class-48 | Optics",
+      "id": "4450208",
+      "date": "30-May-2025 08:00",
+      "video_url": "4450208_0_1536771621619895"
+    },
+    {
+      "title": "Class-47 | Optics",
+      "id": "4450207",
+      "date": "29-May-2025 08:00",
+      "video_url": "4450207_0_1690467384331973"
+    },
+    {
+      "title": "Class-46 | Optics",
+      "id": "4450206",
+      "date": "28-May-2025 08:00",
+      "video_url": "4450206_0_3572766230838246"
+    },
+    {
+      "title": "Class-45 | Optics",
+      "id": "4450205",
+      "date": "27-May-2025 08:00",
+      "video_url": "4450205_0_5126148698927283"
+    },
+    {
+      "title": "Class-44 | Optics",
+      "id": "4450204",
+      "date": "26-May-2025 08:00",
+      "video_url": "4450204_0_3067575087475339"
+    },
+    {
+      "title": "Class-43 | Optics",
+      "id": "4450203",
+      "date": "23-May-2025 08:00",
+      "video_url": "4450203_0_5009883781122807"
+    },
+    {
+      "title": "Class-42 | Optics",
+      "id": "4450201",
+      "date": "22-May-2025 08:00",
+      "video_url": "4450201_0_2070046245724167"
+    },
+    {
+      "title": "Class-41  | Optics",
+      "id": "4450200",
+      "date": "21-May-2025 08:00",
+      "video_url": "4450200_0_8194902958631005"
+    },
+    {
+      "title": "Class-40 | Optics",
+      "id": "4450199",
+      "date": "20-May-2025 08:00",
+      "video_url": "4450199_0_3768468544965822"
+    },
+    {
+      "title": "Class-39 | Optics",
+      "id": "4450198",
+      "date": "19-May-2025 08:00",
+      "video_url": "4450198_0_4396960623007076"
+    },
+    {
+      "title": "Class-38 | Optics",
+      "id": "4450197",
+      "date": "16-May-2025 08:00",
+      "video_url": "4450197_0_7101352717805567"
+    },
+    {
+      "title": "Class-37 | Optics",
+      "id": "4450196",
+      "date": "15-May-2025 08:00",
+      "video_url": "4450196_0_8242372720527185"
+    },
+    {
+      "title": "Class-36 | Optics",
+      "id": "4450195",
+      "date": "14-May-2025 08:00",
+      "video_url": "4450195_0_7536278615418976"
+    },
+    {
+      "title": "Class-35 | Optics",
+      "id": "4450194",
+      "date": "13-May-2025 08:00",
+      "video_url": "4450194_0_9154275704078842"
+    },
+    {
+      "title": "Class-34 | Physics | Magnetic Effects Of Current",
+      "id": "4448758",
+      "date": "12-May-2025 21:00",
+      "video_url": "4448758_0_4069525728094577"
+    },
+    {
+      "title": "Class-33 | Physics | Magnetic Effects Of Current",
+      "id": "4448757",
+      "date": "09-May-2025 21:00",
+      "video_url": "4448757_0_1104607796212897"
+    },
+    {
+      "title": "Class-32 | Physics | Magnetic Effects Of Current",
+      "id": "4448756",
+      "date": "08-May-2025 21:00",
+      "video_url": "4448756_0_5974850671381067"
+    },
+    {
+      "title": "Class-31 | Physics | Magnetic Effects Of Current",
+      "id": "4448755",
+      "date": "07-May-2025 21:00",
+      "video_url": "4448755_0_4539957499593606"
+    },
+    {
+      "title": "Class-30 | Physics | Magnetic Effects Of Current",
+      "id": "4448754",
+      "date": "06-May-2025 21:00",
+      "video_url": "4448754_0_9486867214994117"
+    },
+    {
+      "title": "Class-29 | Physics | Magnetic Effects Of Current",
+      "id": "4448753",
+      "date": "05-May-2025 21:00",
+      "video_url": "4448753_0_9183166749652454"
+    },
+    {
+      "title": "Class-28 | Physics | Magnetic Effects Of Current",
+      "id": "4448752",
+      "date": "02-May-2025 21:00",
+      "video_url": "4448752_0_7206904935356757"
+    },
+    {
+      "title": "Class-27 | Physics | Magnetic Effects Of Current",
+      "id": "4448751",
+      "date": "01-May-2025 21:00",
+      "video_url": "4448751_0_8665101860517958"
+    },
+    {
+      "title": "Class-26 | Physics | Electricity",
+      "id": "4448750",
+      "date": "29-Apr-2025 21:00",
+      "video_url": "4448750_0_1568672844549244"
+    },
+    {
+      "title": "Class-25 | Physics | Electricity",
+      "id": "4448749",
+      "date": "28-Apr-2025 21:00",
+      "video_url": "4448749_0_6939166489740958"
+    },
+    {
+      "title": "Class-24 | Physics | Electricity",
+      "id": "4448747",
+      "date": "25-Apr-2025 21:00",
+      "video_url": "4448747_0_1423221634522359"
+    },
+    {
+      "title": "Class-23 | Physics | Electricity",
+      "id": "4448746",
+      "date": "24-Apr-2025 21:00",
+      "video_url": "4448746_0_2175886343185594"
+    },
+    {
+      "title": "Class-22 | Physics | Electricity",
+      "id": "4452978",
+      "date": "18-Apr-2025 21:00",
+      "video_url": "4452978_0_2231325987082763"
+    },
+    {
+      "title": "Class-21 | Physics | Electricity",
+      "id": "4452976",
+      "date": "17-Apr-2025 21:00",
+      "video_url": "4452976_0_4776065159714271"
+    },
+    {
+      "title": "Class-19 | Physics | Electricity",
+      "id": "4452969",
+      "date": "10-Apr-2025 21:00",
+      "video_url": "4452969_0_7930245535674677"
+    },
+    {
+      "title": "Class-18 | Physics | Electricity",
+      "id": "4452968",
+      "date": "09-Apr-2025 21:00",
+      "video_url": "4452968_0_4491086937554237"
+    },
+    {
+      "title": "Class-17 | Physics | Electricity",
+      "id": "4452964",
+      "date": "05-Apr-2025 21:00",
+      "video_url": "4452964_0_6101663613251404"
+    },
+    {
+      "title": "Class-16 | Physics | Electricity",
+      "id": "4452963",
+      "date": "04-Apr-2025 21:00",
+      "video_url": "4452963_0_5054222806397653"
+    },
+    {
+      "title": "Class-15 | Physics | Electricity",
+      "id": "4452961",
+      "date": "03-Apr-2025 21:00",
+      "video_url": "4452961_0_5656111642852032"
+    },
+    {
+      "title": "Class-14 | Physics | Electricity",
+      "id": "4452959",
+      "date": "02-Apr-2025 21:00",
+      "video_url": "4452959_0_1315914443979564"
+    },
+    {
+      "title": "Class-13 | Physics | Electricity",
+      "id": "4452955",
+      "date": "29-Mar-2025 21:00",
+      "video_url": "4452955_0_7001424541750296"
+    },
+    {
+      "title": "Class-12 | Physics | Electricity",
+      "id": "4452954",
+      "date": "28-Mar-2025 21:00",
+      "video_url": "4452954_0_4811319233413350"
+    },
+    {
+      "title": "Class-11 | Physics | Electricity",
+      "id": "4452953",
+      "date": "27-Mar-2025 21:00",
+      "video_url": "4452953_0_6408706625865757"
+    },
+    {
+      "title": "Class-10 | Physics | Electricity",
+      "id": "4452952",
+      "date": "26-Mar-2025 21:00",
+      "video_url": "4452952_0_1533823733049732"
+    },
+    {
+      "title": "Class-09 | Physics | Wave",
+      "id": "4452951",
+      "date": "21-Mar-2025 21:00",
+      "video_url": "4452951_0_2445028277967273"
+    },
+    {
+      "title": "Class-08 | Physics | Wave",
+      "id": "4452950",
+      "date": "20-Mar-2025 21:00",
+      "video_url": "4452950_0_6862707924277740"
+    },
+    {
+      "title": "Class-07 | Physics | Wave",
+      "id": "4452949",
+      "date": "19-Mar-2025 21:00",
+      "video_url": "4452949_0_5094661120889970"
+    },
+    {
+      "title": "Class-06 | Physics | Wave",
+      "id": "4452948",
+      "date": "12-Mar-2025 08:00",
+      "video_url": "4452948_0_6818289597877411"
+    },
+    {
+      "title": "Class-05 | Physics | Wave",
+      "id": "4452947",
+      "date": "11-Mar-2025 08:00",
+      "video_url": "4452947_0_7045818466154545"
+    },
+    {
+      "title": "Class-04 | Physics | Wave",
+      "id": "4452946",
+      "date": "10-Mar-2025 08:00",
+      "video_url": "4452946_0_4113734245985787"
+    },
+    {
+      "title": "Class-03 | Waves",
+      "id": "4454237",
+      "date": "05-Mar-2025 08:00",
+      "video_url": "4454237_0_7019492867020587"
+    },
+    {
+      "title": "Class-02 | Waves",
+      "id": "4454234",
+      "date": "04-Mar-2025 08:00",
+      "video_url": "4454234_0_3938129043891765"
+    },
+    {
+      "title": "Class-01 | Intro",
+      "id": "4454232",
+      "date": "03-Mar-2025 08:00",
+      "video_url": "4454232_0_5103083465396624"
+    }
+  ],
+  "notes_total": 127,
+  "notes": [
+    {
+      "id": 674697,
+      "title": "Previous Year Question Practice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68cceb72877a1_acid_base_salt_12_9_25.pdf",
+      "date": "19-Sep-2025"
+    },
+    {
+      "id": 655507,
+      "title": "Bio | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682eb875d7004_cell21maycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655506,
+      "title": "Bio | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68187b572e52a_20250505140016545compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655505,
+      "title": "Bio | 16 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6800774b93f6d_16.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655504,
+      "title": "Bio | 31 March 2,3 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee4a012ddee_31march_2mergedcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655503,
+      "title": "Bio | 27,28,31 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea58ad318b1_28_marchmergedcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655502,
+      "title": "Bio | 26 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e4d6f3407ef_26_march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655501,
+      "title": "Bio | 24 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e119f6ac4bd_24_march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655500,
+      "title": "Bio | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e0e3bd1c9b5_21march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655499,
+      "title": "Bio Eng Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67874e0870bb0_20240917092432compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655498,
+      "title": "Bio Hindi Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67874de81d33c_Bio._Hindicompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655497,
+      "title": "Soap & Detergent",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/663df66aaf4cd_Soap & detergent_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655496,
+      "title": "Hydrocarbon",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2b17a2a14_hydrocarbon_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655495,
+      "title": "Drugs",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662f2aed64acc_Drugs_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655494,
+      "title": "Fuel",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6628e569af44a_Fuel_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655493,
+      "title": "Catalyst & Molecular Weight",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66277742e9e54_catalyst & molecular weight_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655492,
+      "title": "Water Hybridization",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/662776f556299_WATER & HYBRIDISATION_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655491,
+      "title": "Valency",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6620de2571211_Valency.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655490,
+      "title": "Glass",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661f6ddbf32b5_Glass_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655489,
+      "title": "Polymers",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/661e4a51995a5_polymers.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655488,
+      "title": "Radioactivity",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150f95424ad_Radioactivity (DONE).pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655487,
+      "title": "Chemical Reaction",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66150c2f1027f_chemical reaction_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655486,
+      "title": "Carbon and its Compounds",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6613c827eea08_carbon and its compounds done.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655485,
+      "title": "Mixture",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/66137912bcbf2_Mixture.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655484,
+      "title": "Matter",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65fc23e101a26_METALS (DONE).pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655483,
+      "title": "Acid Base and Salt",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65efda63cebec_acid base and salt DONE.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655482,
+      "title": "Noble gases",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65ef2d34bf656_Noble gases.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655481,
+      "title": "Periodic table",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65c20750adc72_Periodic Table (done).pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655480,
+      "title": "Atomic Structure",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/65b7b441eea5c_Atomic structure  (DONE).pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655479,
+      "title": "Chem | 5-8 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f4dd80845b6_8aprilmerged.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655478,
+      "title": "Phy | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68afeb1d60852_9_to_10_pm_27aug_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655477,
+      "title": "Phy | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aed328d700b_9_to_10_pm_26aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655476,
+      "title": "Phy | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ad5af25b56b_9_to_10_pm_25aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655475,
+      "title": "Phy | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ac22625a61a_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_22aug_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655474,
+      "title": "Phy | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a808a376434_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_21aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655473,
+      "title": "Phy | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6ae20bcb5e_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_20aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655472,
+      "title": "Phy | 19 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a56f2fe90a1_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_19aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655471,
+      "title": "Phy | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a40df7ef1ee_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_18aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655470,
+      "title": "Phy | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2b00537dfd_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_14aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655469,
+      "title": "Phy | 13 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689d8addd2f86_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_13aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655468,
+      "title": "Phy | 12 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c3cb2cd4f0_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_12aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655467,
+      "title": "Phy | 08 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689c3b1434ccd_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_08aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655466,
+      "title": "Phy | 7 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68959f1e7d87b_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_07aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655465,
+      "title": "Phy | 06 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689431f12228c_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_06aug_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655464,
+      "title": "Phy | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68933517decd4_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_05aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655463,
+      "title": "Phy | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6891be1f3288c_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_04aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655462,
+      "title": "Phy | 01 Aug | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_01aug.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655461,
+      "title": "Phy | 30 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_20250730090350158_compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655460,
+      "title": "Phy | 29 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_29th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655459,
+      "title": "Phy | 24 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_24th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655458,
+      "title": "Phy | 28 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_28th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655457,
+      "title": "Phy | 25 July | Class PNG",
+      "url": "https://educp.crwilladmin.com/uploads/class-attachment/lclsys_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_25th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655456,
+      "title": "Phy | 23 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6881d31ae08dc_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_23th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655455,
+      "title": "Phy | 22 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/688078b55970f_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_22th_julycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655454,
+      "title": "Phy | 21 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f35e04131a_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_21th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655453,
+      "title": "Phy | 17 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687f273d24af8_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_17th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655452,
+      "title": "Phy | 18 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687b4614bdc48_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_18th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655451,
+      "title": "Phy | 16 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68788a8b54e5b_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_16th_julycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655450,
+      "title": "Phy | 15 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/687737a66e115_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_15th_julycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655449,
+      "title": "Phy | 14 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6875ee0f0a8e1_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_14th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655448,
+      "title": "Phy | 11 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68709e1c6797b_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_11th_julycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655447,
+      "title": "Phy | 10 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68709d0c78161_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_10th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655446,
+      "title": "Phy | 09 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e3992309ec_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_9th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655445,
+      "title": "Phy | 9 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e0bb784da2_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_9th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655444,
+      "title": "Phy | 7&8 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686e0b69b090e_ilovepdfmerged_46compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655443,
+      "title": "Phy | 08 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686cbe1057b22_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_8th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655442,
+      "title": "Phy | 07 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686b521aba333_sci_spl_29_30_and_technician_grade_3_new_batch_express_batch_123_DP_AWO_batch_2_7th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655441,
+      "title": "Phy | 04 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686775c4c5185_sci_spl_30_and_technician_grade_3_new_batch_4th_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655440,
+      "title": "Phy | 03 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68677550a4ab1_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_3rd_julycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655439,
+      "title": "Phy | 02 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/686613f4ad5cb_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_2_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655438,
+      "title": "Phy | 01 July | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6864bac969ea8_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_1st_july.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655437,
+      "title": "Phy | 30 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6863842c9232f_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_30junecompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655436,
+      "title": "Phy | 26 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685cd6ccb3484_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_26june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655435,
+      "title": "Phy | 25 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685cd65aefc5b_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_25june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655434,
+      "title": "Phy | 24 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685b8b6523cd2_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_24june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655433,
+      "title": "Phy | 23 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/685a45c05c732_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_23june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655432,
+      "title": "Phy | 20 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68567908a36c2_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_20june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655431,
+      "title": "Phy | 12 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684bd23b9a349_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_12june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655430,
+      "title": "Phy | 11 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684a90a2b5b20_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_11june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655429,
+      "title": "Phy | 9-10 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6849516c55655_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_10_june_mergecompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655428,
+      "title": "Phy | 4 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/684122a296a1e_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_4_june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655427,
+      "title": "Phy | 5 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6841224950419_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_5_june.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655426,
+      "title": "Phy | 3 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683fda6b74472_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_3_junecompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655425,
+      "title": "Phy | 2 June | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683e985be7ab5_sci_29_Dp_hcm_awo_batch_1_2_both_and_group_D_old_and_express_batch_123_30may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655424,
+      "title": "Phy | 29-30 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/683a8b56cd143_ilovepdfmerged_20250531T102043.216.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655423,
+      "title": "Phy | 27-28 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68382a27454bf_ilovepdfmerged_97compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655422,
+      "title": "Phy | 22,23,26 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68354b8015b2e_ilovepdfmerged_68compressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655421,
+      "title": "Phy | 21 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682eb357f3363_sci_29_Dp_hcm_awo_batch_1_and_group_D_old_and_express_batch_123_21may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655420,
+      "title": "Phy | 20 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d2ba6f01cb_sci_29_Dp_hcm_awo_batch_1_and_group_D_old_and_express_batch_123_20may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655419,
+      "title": "Phy | 19 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/682d2a539f7ec_sci_29_Dp_hcm_awo_batch_1_and_group_D_old_and_express_batch_123_19may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655418,
+      "title": "Phy | 14-15 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6826dfdec86c7_ilovepdfmergedcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655417,
+      "title": "Phy | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68245a812179a_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_12may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655416,
+      "title": "Phy | 13 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68245a3301d3e_sci_29_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_123_13may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655415,
+      "title": "Phy | 12 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6821a12722fff_Group_D_b01_and_02_sci_29_12may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655414,
+      "title": "Phy | 8 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681dd00e07b2f_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_8maycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655413,
+      "title": "Phy | 7 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681c43d12e508_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_7maycompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655412,
+      "title": "Phy | 6 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681aff67f1740_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_6may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655411,
+      "title": "Phy | 5 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6819da8457942_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_5may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655410,
+      "title": "Phy | 2 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68184529b2823_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_2may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655409,
+      "title": "Phy | 29 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6814a3f8e080f_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_29_april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655408,
+      "title": "Phy | 1 May | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6814a3546e1d5_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_1may.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655407,
+      "title": "Phy | 28 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/681068037bea6_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_28_april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655406,
+      "title": "Phy | 25 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680f0f3aa1004_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_25_april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655405,
+      "title": "Phy | 24 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b1cf0ece0f_sci_28_Dp_hcm_awo_both_batches_and_group_D_old_and_express_batch_1_24_april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655404,
+      "title": "Phy | 11 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67fca52a44a86_DP_HCM_AWO_Batch_02_and_group_d_express_batch_11aprilcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655403,
+      "title": "Phy Practice Set",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e1209498026_Rrc_set_78_CW_Set10_Kranti_Sol_10_Done.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655402,
+      "title": "Phy | 18 April 2025 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680330a85821c_DP_HCM_AWO_Batch_02_and_group_d_express_batch_18aprilcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655401,
+      "title": "Phy | 17 April 2025 | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68032eafed312_DP_HCM_AWO_Batch_02_and_group_d_express_batch_17april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655400,
+      "title": "Phy | 10 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f89d8f51b99_DP_HCM_AWO_Batch_02_and_group_d_express_batch_10aprilcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655399,
+      "title": "Phy | 5 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f74c132ab70_DP_HCM_AWO_Batch_02_and_group_d_express_batch_05april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655398,
+      "title": "Phy | 9 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67f74ba4159ec_DP_HCM_AWO_Batch_02_and_group_d_express_batch_09april.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655397,
+      "title": "Phy | 3 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ef5ef40e63d_DP_HCM_AWO_Batch_02_and_group_d_express_batch_03aprilcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655396,
+      "title": "Phy |  2 April | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ee0e3d7e6f3_DP_HCM_AWO_Batch_02_and_group_d_express_batch_02aprilcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655395,
+      "title": "Phy | 29 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ea1e03dc92f_DP_HCM_AWO_Batch_02_and_group_d_express_batch_29march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655394,
+      "title": "Phy | 28 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e77aacd94c8_DP_HCM_AWO_Batch_02_and_group_d_express_batch_28marchcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655393,
+      "title": "Phy | 27 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e62bda0cb5e_DP_HCM_AWO_Batch_02_and_group_d_express_batch_27march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655392,
+      "title": "Phy | 26 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e4de9e5c08b_DP_HCM_AWO_Batch_02_and_group_d_express_batch_26marchcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655391,
+      "title": "Phy | 21 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67e11dfa32b5c_DP_HCM_AWO_Batch_02_and_group_d_express_batch_21march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655390,
+      "title": "Phy | 19 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67dbad0f41fac_DP_HCM_AWO_Batch_02_and_group_d_express_batch_19marchcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655389,
+      "title": "Phy | 12 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d7c9b02295c_DP_HCM_AWO_Batch_02_and_group_d_express_batch_12march_1.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655388,
+      "title": "Phy | 11 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d11782e89c7_DP_HCM_AWO_Batch_02_and_group_d_express_batch_11march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655387,
+      "title": "Phy | 10 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67cfe5ec4de03_DP_HCM_AWO_Batch_02_and_group_d_express_batch_10march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655386,
+      "title": "Phy | 5 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c936ebb064a_Group_D_expressbatch_05march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655385,
+      "title": "Phy | 4 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c936b465927_Group_D_expressbatch_04march.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655384,
+      "title": "Phy | 3 March | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67c6a023f2b7f_Group_D_expressbatch_03marchcompressed.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655383,
+      "title": "Physics HIndi Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d116a6a9b16_Physics_HIndi_Notes.pdf",
+      "date": "10-Sep-2025"
+    },
+    {
+      "id": 655382,
+      "title": "Physics English Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d1168ad6995_Physics_English_Notes.pdf",
+      "date": "10-Sep-2025"
+    }
+  ]
+}
