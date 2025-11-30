@@ -1,0 +1,21 @@
+{
+  "batch_id": 3063,
+  "topics": [
+    {
+      "id": 31416,
+      "topicName": "Intro"
+    },
+    {
+      "id": 31437,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 31435,
+      "topicName": "Polity"
+    },
+    {
+      "id": 31436,
+      "topicName": "Polity (VOD)"
+    }
+  ]
+}
