@@ -1,0 +1,29 @@
+{
+  "batch_id": 3098,
+  "topics": [
+    {
+      "id": 31645,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 31646,
+      "topicName": "English (Notes)"
+    },
+    {
+      "id": 31642,
+      "topicName": "English"
+    },
+    {
+      "id": 31647,
+      "topicName": "Vocab (Live)"
+    },
+    {
+      "id": 31643,
+      "topicName": "Grammar (VOD)"
+    },
+    {
+      "id": 31644,
+      "topicName": "Comprehension (VOD)"
+    }
+  ]
+}
