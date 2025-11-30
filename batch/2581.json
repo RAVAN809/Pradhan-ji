@@ -1,0 +1,109 @@
+{
+  "batch_id": 2581,
+  "topics": [
+    {
+      "id": 26117,
+      "topicName": "Intro/Demo"
+    },
+    {
+      "id": 26175,
+      "topicName": "Measuring Tool"
+    },
+    {
+      "id": 26176,
+      "topicName": "Power Transmission"
+    },
+    {
+      "id": 26177,
+      "topicName": "Bearing"
+    },
+    {
+      "id": 26178,
+      "topicName": "Riveting Tool"
+    },
+    {
+      "id": 26179,
+      "topicName": "Grinding"
+    },
+    {
+      "id": 26180,
+      "topicName": "Machining "
+    },
+    {
+      "id": 26181,
+      "topicName": "Screw, Thred & key "
+    },
+    {
+      "id": 26182,
+      "topicName": "Sheet Metal"
+    },
+    {
+      "id": 26183,
+      "topicName": "Fastner "
+    },
+    {
+      "id": 26184,
+      "topicName": "Welding "
+    },
+    {
+      "id": 26185,
+      "topicName": "Welded Joint "
+    },
+    {
+      "id": 26186,
+      "topicName": "Forging"
+    },
+    {
+      "id": 26187,
+      "topicName": "Hand Tools "
+    },
+    {
+      "id": 26188,
+      "topicName": "Safety & Health "
+    },
+    {
+      "id": 26189,
+      "topicName": "Cooling & Lubrication"
+    },
+    {
+      "id": 26190,
+      "topicName": "Jigs& Fixture"
+    },
+    {
+      "id": 26191,
+      "topicName": "Tap & Die"
+    },
+    {
+      "id": 26192,
+      "topicName": "Gauge"
+    },
+    {
+      "id": 26193,
+      "topicName": "Pipe fitting"
+    },
+    {
+      "id": 26194,
+      "topicName": "Hydraulic & Pneumatic"
+    },
+    {
+      "id": 26195,
+      "topicName": "Heat Treatment"
+    },
+    {
+      "id": 26196,
+      "topicName": "Limit, Fit & Tolerance"
+    },
+    {
+      "id": 26197,
+      "topicName": "Metal & Alloy "
+    },
+    {
+      "id": 26198,
+      "topicName": "CNC"
+    },
+    {
+      "id": 26200,
+      "topicName": "Trade Notes"
+    }
+  ]
+}
