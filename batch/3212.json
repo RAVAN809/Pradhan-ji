@@ -1,0 +1,17 @@
+{
+  "batch_id": 3212,
+  "topics": [
+    {
+      "id": 32852,
+      "topicName": "Physics"
+    },
+    {
+      "id": 32853,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 32854,
+      "topicName": "Biology"
+    }
+  ]
+}
