@@ -1,0 +1,73 @@
+{
+  "batch_id": 3128,
+  "topics": [
+    {
+      "id": 31984,
+      "topicName": "Intro"
+    },
+    {
+      "id": 32018,
+      "topicName": "Arithmetic"
+    },
+    {
+      "id": 32432,
+      "topicName": "Advance"
+    },
+    {
+      "id": 32019,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 32020,
+      "topicName": "History"
+    },
+    {
+      "id": 32021,
+      "topicName": "Geography"
+    },
+    {
+      "id": 32022,
+      "topicName": "Polity"
+    },
+    {
+      "id": 32023,
+      "topicName": "Economy"
+    },
+    {
+      "id": 32024,
+      "topicName": "Physics"
+    },
+    {
+      "id": 32025,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 32026,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32027,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 33038,
+      "topicName": "Physics (VOD)"
+    },
+    {
+      "id": 33039,
+      "topicName": "Chemistry (VOD)"
+    },
+    {
+      "id": 33040,
+      "topicName": "Biology (VOD)"
+    },
+    {
+      "id": 33663,
+      "topicName": "Eco (New VOD)"
+    },
+    {
+      "id": 34387,
+      "topicName": "Polity (Recorded)"
+    }
+  ]
+}
