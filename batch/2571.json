@@ -1,0 +1,145 @@
+{
+  "batch_id": 2571,
+  "topics": [
+    {
+      "id": 26030,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 25939,
+      "topicName": "Maths"
+    },
+    {
+      "id": 25962,
+      "topicName": "English"
+    },
+    {
+      "id": 25941,
+      "topicName": "CDP"
+    },
+    {
+      "id": 25940,
+      "topicName": "Hindi"
+    },
+    {
+      "id": 25948,
+      "topicName": "Sanskrit"
+    },
+    {
+      "id": 26094,
+      "topicName": "History Notes"
+    },
+    {
+      "id": 25942,
+      "topicName": "History"
+    },
+    {
+      "id": 26096,
+      "topicName": "Geography Notes"
+    },
+    {
+      "id": 25943,
+      "topicName": "Geography"
+    },
+    {
+      "id": 26095,
+      "topicName": "Polity Notes"
+    },
+    {
+      "id": 25944,
+      "topicName": "Polity"
+    },
+    {
+      "id": 26098,
+      "topicName": "Physics Notes"
+    },
+    {
+      "id": 25945,
+      "topicName": "Physics"
+    },
+    {
+      "id": 26099,
+      "topicName": "Chemistry Notes"
+    },
+    {
+      "id": 25946,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 26100,
+      "topicName": "Biology Notes"
+    },
+    {
+      "id": 25947,
+      "topicName": "Biology"
+    },
+    {
+      "id": 26097,
+      "topicName": "Mock Test"
+    },
+    {
+      "id": 26101,
+      "topicName": "Expected Question"
+    },
+    {
+      "id": 26102,
+      "topicName": "CTET Paper - 02 PYQ's 2022"
+    },
+    {
+      "id": 26093,
+      "topicName": " CTET Paper - 02 PYQ's 2023"
+    },
+    {
+      "id": 26936,
+      "topicName": "CTET Paper - 02 PYQ's 2024"
+    },
+    {
+      "id": 26333,
+      "topicName": "SST Practice"
+    },
+    {
+      "id": 26374,
+      "topicName": "Science Practice"
+    },
+    {
+      "id": 26058,
+      "topicName": "Science Peda."
+    },
+    {
+      "id": 26059,
+      "topicName": "SST Peda."
+    },
+    {
+      "id": 26060,
+      "topicName": "Maths Peda."
+    },
+    {
+      "id": 26061,
+      "topicName": "English Peda."
+    },
+    {
+      "id": 26090,
+      "topicName": "Sanskrit PYQ's 2022"
+    },
+    {
+      "id": 26091,
+      "topicName": " NCERT Key Notes"
+    },
+    {
+      "id": 26092,
+      "topicName": "Previous Year Questions"
+    },
+    {
+      "id": 26400,
+      "topicName": "Hindi & SKT Peda."
+    },
+    {
+      "id": 26866,
+      "topicName": "Maths Practice Paper-2"
+    },
+    {
+      "id": 26932,
+      "topicName": "P-2 Mock Test (New)"
+    }
+  ]
+}
