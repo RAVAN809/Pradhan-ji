@@ -1,0 +1,57 @@
+{
+  "batch_id": 3257,
+  "topics": [
+    {
+      "id": 33462,
+      "topicName": "Maths"
+    },
+    {
+      "id": 33463,
+      "topicName": "English"
+    },
+    {
+      "id": 33464,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 33465,
+      "topicName": "History"
+    },
+    {
+      "id": 33466,
+      "topicName": "Geography"
+    },
+    {
+      "id": 33467,
+      "topicName": "Polity"
+    },
+    {
+      "id": 33468,
+      "topicName": "Economy"
+    },
+    {
+      "id": 33469,
+      "topicName": "Physics"
+    },
+    {
+      "id": 33470,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 33471,
+      "topicName": "Biology"
+    },
+    {
+      "id": 33714,
+      "topicName": "Computer"
+    },
+    {
+      "id": 33926,
+      "topicName": "Maths Special"
+    },
+    {
+      "id": 34421,
+      "topicName": "Static GK"
+    }
+  ]
+}
