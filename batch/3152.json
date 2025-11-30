@@ -1,0 +1,85 @@
+{
+  "batch_id": 3152,
+  "topics": [
+    {
+      "id": 32213,
+      "topicName": "Sandeep Sir"
+    },
+    {
+      "id": 32214,
+      "topicName": "Bhagwati Sir"
+    },
+    {
+      "id": 32215,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 32216,
+      "topicName": "History"
+    },
+    {
+      "id": 32217,
+      "topicName": "Geography"
+    },
+    {
+      "id": 32218,
+      "topicName": "Polity"
+    },
+    {
+      "id": 32578,
+      "topicName": "Economy"
+    },
+    {
+      "id": 32219,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 32220,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32221,
+      "topicName": "Comp. (VOD)"
+    },
+    {
+      "id": 32222,
+      "topicName": "Hindi"
+    },
+    {
+      "id": 32223,
+      "topicName": "Arith (Rakesh Sir)"
+    },
+    {
+      "id": 32224,
+      "topicName": "Adv (Rakesh Sir)"
+    },
+    {
+      "id": 32225,
+      "topicName": "Eng (Jaideep Sir)"
+    },
+    {
+      "id": 32226,
+      "topicName": "Reas (Arun Sir)"
+    },
+    {
+      "id": 32227,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 32228,
+      "topicName": "Phy (New VOD)"
+    },
+    {
+      "id": 32229,
+      "topicName": "Chem (New VOD)"
+    },
+    {
+      "id": 32230,
+      "topicName": "Bio (New VOD)"
+    },
+    {
+      "id": 32231,
+      "topicName": "Driver Portion"
+    }
+  ]
+}
