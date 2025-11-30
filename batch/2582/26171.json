@@ -1,0 +1,700 @@
+{
+  "batchid": 2582,
+  "topicid": 26171,
+  "classes_total": 9,
+  "classes": [
+    {
+      "title": "Class-09 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430104",
+      "date": "21-Jul-2023 16:00",
+      "video_url": "4430104_0_7242152040071489"
+    },
+    {
+      "title": "Class-08 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430103",
+      "date": "20-Jul-2023 16:00",
+      "video_url": "4430103_0_5852821329995425"
+    },
+    {
+      "title": "Class-07 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430102",
+      "date": "19-Jul-2023 16:00",
+      "video_url": "4430102_0_6170537249861387"
+    },
+    {
+      "title": "Class-06 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430101",
+      "date": "18-Jul-2023 16:00",
+      "video_url": "4430101_0_2358837931193009"
+    },
+    {
+      "title": "Class-05 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430100",
+      "date": "17-Jul-2023 16:00",
+      "video_url": "4430100_0_9625797656822960"
+    },
+    {
+      "title": "Class-04 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430099",
+      "date": "15-Jul-2023 16:00",
+      "video_url": "4430099_0_3415316231637277"
+    },
+    {
+      "title": "Class-03 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430098",
+      "date": "14-Jul-2023 16:00",
+      "video_url": "4430098_0_3236465105800152"
+    },
+    {
+      "title": "Class-02 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430097",
+      "date": "13-Jul-2023 16:00",
+      "video_url": "4430097_0_9899427690396627"
+    },
+    {
+      "title": "Class-01 | Sheet Metal | By Ankit Sir Sir",
+      "id": "4430096",
+      "date": "12-Jul-2023 16:00",
+      "video_url": "4430096_0_6825759761883967"
+    }
+  ],
+  "notes_total": 106,
+  "notes": [
+    {
+      "id": 526583,
+      "title": "Magnet Part-3 (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b684b28fee_Magnet_Part_3_only_Rac.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526582,
+      "title": "Magnet Part-2 (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b683654428_Magnet_Part_2_only_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526581,
+      "title": "Magnet Part-1 (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b681d1e2e8_Magnet_part_1_only_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526580,
+      "title": "Operational Amplifier (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b67ed267cb_operational_Amplifier_ONLY_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526579,
+      "title": "FET (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b67cdad821_FET_only_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526578,
+      "title": "BJT (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b678b2135b_BJT_ONLY_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526577,
+      "title": "Rectifier (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b676aead16_Rectifier_only_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526576,
+      "title": "Special Diode (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b67458b56b_Special_Diode_only_RAC.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526575,
+      "title": "Diode (Only Rac)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b66e724f7b_diode_only_Rac.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526574,
+      "title": "Semiconductor (Only Rac )",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b66c663cd4_Semiconductor_only_RAC_.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526573,
+      "title": "Three Phase Induction Motor Part-2 (Only RAC Trade)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b6684e0114_Three_Phase_Induction_Motor_Part_2_only_RAC_Tradecompressed.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526572,
+      "title": "Single Phase Motor (Only Rac Trade)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b664c61105_single_phase_motor_only_Rac_Tradecompressed.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 526571,
+      "title": "Three Phase Induction Motor (Only RAC Trade)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/680b660d7f9c7_Three_Phase_Induction_motor_only_RAC_Trade.pdf",
+      "date": "25-Apr-2025"
+    },
+    {
+      "id": 501613,
+      "title": "Electricity Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67d2faa2d5633_6757945e75d2fElectricityNotes343039crwill.pdf",
+      "date": "13-Mar-2025"
+    },
+    {
+      "id": 501393,
+      "title": "Electricity Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6757945e75d2f_Electricity_Notes343039crwill.pdf",
+      "date": "13-Mar-2025"
+    },
+    {
+      "id": 433398,
+      "title": "Gas Metal arc Welding Part-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540de1412756_gas metal arc welding PART-2.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433397,
+      "title": "Gas Metal arc Welding Part-1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540ddf81dd8b_gas metal arc welding PART-1.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433396,
+      "title": "Surfacing",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540dbbd48ee6_surfacing.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433395,
+      "title": "Plasma Arc Welding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540dba5ec8b6_plasma arc welding.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433394,
+      "title": "Metallizing",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540db7c8f8a9_metallizing.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433393,
+      "title": "Hard Facing",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6540db3465074_hard facing.pdf",
+      "date": "31-Oct-2023"
+    },
+    {
+      "id": 433392,
+      "title": "Hydraulic & Pneumetic Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/648088ad1f59c_Hydraulic & Pneumetic Notes pdf.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433391,
+      "title": "Taps and Die",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6426a0a2882bc_taps and die_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433390,
+      "title": "Thermit Welding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a563869c15b_thermit welding (1)_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433389,
+      "title": "Soldering and Brazing",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a5634a51a91_soldering and brazing_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433388,
+      "title": "Inspection of Weld-2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a56315b38ff_inspection of weld2_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433387,
+      "title": "Heat Input",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64a562e2735cf_heat input_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433386,
+      "title": "Inspection of Weld",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64967578ebe32_inspection of weld.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433385,
+      "title": "Weldability of Metals",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64967551d08be_weldability of metals.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433384,
+      "title": "Water Treatment",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649674e74191d_water treatment.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433383,
+      "title": "Water Cooler",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649674c2040b6_water cooler.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433382,
+      "title": "Package AC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6496749e8f24a_package ac.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433381,
+      "title": "Ice Plant",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6496747f50170_ice plant.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433380,
+      "title": "Ice Cube Machine",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6496745a073de_ice cube machine.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433379,
+      "title": "HVAC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6496743f85efc_HVAC.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433378,
+      "title": "Deep Freezer",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64967426e7cc0_DEEP FREEZER.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433377,
+      "title": "Cold Storage",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649673f152b0b_cold storage.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433376,
+      "title": "Central and Industrial AC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/649673d67b621_central and industrial ac.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433375,
+      "title": "Manifold System",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487191ab5396_manifold system.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433374,
+      "title": "Pipe Welding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64871900dd9df_pipe welding.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433373,
+      "title": "Welding Technique",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/648718cb97e64_welding technique.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433372,
+      "title": "Welding Defects",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6487189f49db0_welding defects.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433371,
+      "title": "Safety Welding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64871878c0b4c_safety welding.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433370,
+      "title": "Evaporator",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64871853b57e2_evaporator.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433369,
+      "title": "Compressor",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6480872a2020b_compressor_compressed (1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433368,
+      "title": "Car AC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/648085e0a8ebb_car ac.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433367,
+      "title": "Expansion Valve",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/648085a785e8c_expansion valve.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433366,
+      "title": "Cooling Tower",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64808549298b1_cooling tower.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433365,
+      "title": "Condenser",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6480850fcb246_condenser.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433364,
+      "title": "Split AC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/643944484792c_split ac (1)_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433363,
+      "title": "Common Gases in Welding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/643943cf86047_gases_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433362,
+      "title": "Psychrometrics",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6426a037dacae_psychrometrics_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433361,
+      "title": "Window AC",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64269fc5deca1_window ac_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433360,
+      "title": "Domestic Refrigerator",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64269fa2b73ba_domestic refrigerator_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433359,
+      "title": "Basic Refrigeration",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64269f7e66a9f_basic refrigeration_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433358,
+      "title": "Refrigerant",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64269f0eb52b0_refrigerant_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433357,
+      "title": "Bench Vice",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6414524cc8bc8_bench vice_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433356,
+      "title": "Machine",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641451ead9553_machine_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433355,
+      "title": "Punch",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641451cde2fbf_punch_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433354,
+      "title": "Plier",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641451ad281eb_plier_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433353,
+      "title": "Lamp BOB",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641451906bac6_lamp bob_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433352,
+      "title": "Screw Driver",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64145161294d1_screw driver_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433351,
+      "title": "Surface Plate",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/64145140dab2f_surface plate_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433350,
+      "title": "Divider",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6414511e23225_divider_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433349,
+      "title": "Spanner",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641451001ef9d_spanner_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433348,
+      "title": "Chisel",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/641450c72a3d2_chisel_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433347,
+      "title": "Introduction to Rac",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1675931442.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433346,
+      "title": "Hacksaw",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1675332943.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433345,
+      "title": "Files",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1675332742.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433344,
+      "title": "Welding Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1672742902-welding_Ques_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433343,
+      "title": "Welding Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1672742902-welding_notes_final.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433342,
+      "title": "QRMM",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671184491-QRMM.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433341,
+      "title": "Belty Drive & Pully",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671184477-BELTY_DRIVE_PULLEY.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433340,
+      "title": "Fasteners",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671184477-FASTENERS.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433339,
+      "title": "Screw Thread & Keys",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671184477-screw_thread_keys.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433338,
+      "title": "Surface Finishing",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671015294-Surface_finishing.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433337,
+      "title": " Lapping & Honning Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1671015257-CamScanner_12-10-2022_11_57.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433336,
+      "title": "Shaper, Planer & Slotter ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1670930459-shaper.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433335,
+      "title": "Machining Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1670930413-CamScanner_11-19-2022_20_21.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433334,
+      "title": "Reamer Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1670397667-reamer.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433333,
+      "title": "Drill Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669807229-drill_notes.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433332,
+      "title": "Rivet & Riveting Tool - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-RIVET_RIVET_TOOL_2_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433331,
+      "title": "Rivet & Riveting Tool - 1",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-Rivet_Riveting_Tool_1_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433330,
+      "title": "Complete Shaft",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-COMPLETE_SHAFT_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433329,
+      "title": "Gear - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-GEAR_2_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433328,
+      "title": "Gear - 1 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-GEAR_1_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433327,
+      "title": "Complete Coupling",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-COMPLETE_COUPLING_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433326,
+      "title": "Complete Clutch",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-COMPLETE_CLUTCH_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433325,
+      "title": "Bearing - 2",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-BEARING_2_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433324,
+      "title": "Bearing - 1 ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-Bearing_1_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433323,
+      "title": "Milling",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669372009-milling.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433322,
+      "title": "Heat Treatment Notes",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669119862-CamScanner_11-21-2022_16_03.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433321,
+      "title": " Lathe Machine Notes ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669119839-lathe_final.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433320,
+      "title": "Lathe Machine Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1669119817-CamScanner_11-19-2022_20_27.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433319,
+      "title": "Cutting Tool",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668593910-Cutting_Tool.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433318,
+      "title": "Measurement and Measurements Tools",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668421209-measurement_and_measurements_tools_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433317,
+      "title": "Grinding",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1668421209-Grinding_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433316,
+      "title": " Interchangeability & Surface Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665663151-CamScanner_10-13-2022_14_46.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433315,
+      "title": "Grinding Wheel & Grinding Machine Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665663127-CamScanner_10-12-2022_19_33.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433314,
+      "title": "Bearing Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665663111-CamScanner_10-12-2022_19_26.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433313,
+      "title": "Power Transmission Ques ",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665663094-CamScanner_10-12-2022_19_13_(1).pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433312,
+      "title": "Measuring Tool Ques",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665391448-Measuring_Tool_Ques_(1)_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433311,
+      "title": "Heat Treatment (\u0909\u0937\u094d\u092e\u093e \u0909\u092a\u091a\u093e\u0930)",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1665391448-Heat_Treatment_(\u0909\u0937\u094d\u092e\u093e_\u0909\u092a\u091a\u093e\u0930)_(1)_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433310,
+      "title": "Safety & Fire Question",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1664367161-Safety_Fire_compressed.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433309,
+      "title": "ITI RAC Trade Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674127755-ITI_RAC_TRADE_SYLLABUS.pdf",
+      "date": "29-Aug-2023"
+    },
+    {
+      "id": 433308,
+      "title": "ITI Welder Trade Syllabus",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/1674127722-ITI_WELDER_TRADE_SYLLABUS.pdf",
+      "date": "29-Aug-2023"
+    }
+  ]
+}
