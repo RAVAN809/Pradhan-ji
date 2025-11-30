@@ -1,0 +1,45 @@
+{
+  "batch_id": 2540,
+  "topics": [
+    {
+      "id": 28763,
+      "topicName": "History"
+    },
+    {
+      "id": 28605,
+      "topicName": "Geography"
+    },
+    {
+      "id": 25652,
+      "topicName": "Polity"
+    },
+    {
+      "id": 26855,
+      "topicName": "Economy"
+    },
+    {
+      "id": 27467,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 25507,
+      "topicName": "Demo"
+    },
+    {
+      "id": 29370,
+      "topicName": "Physics"
+    },
+    {
+      "id": 29371,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 29372,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32611,
+      "topicName": "Chemistry (Zubair Sir)"
+    }
+  ]
+}
