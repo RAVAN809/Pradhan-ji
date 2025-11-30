@@ -1,0 +1,21 @@
+{
+  "batch_id": 2594,
+  "topics": [
+    {
+      "id": 26361,
+      "topicName": "Phy (VOD)"
+    },
+    {
+      "id": 26362,
+      "topicName": "Chem (VOD)"
+    },
+    {
+      "id": 26363,
+      "topicName": "Bio (VOD)"
+    },
+    {
+      "id": 26364,
+      "topicName": "Phy (Notes)"
+    }
+  ]
+}
