@@ -1,0 +1,81 @@
+{
+  "batch_id": 3213,
+  "topics": [
+    {
+      "id": 32869,
+      "topicName": "Intro"
+    },
+    {
+      "id": 32897,
+      "topicName": "Maths"
+    },
+    {
+      "id": 32898,
+      "topicName": "English"
+    },
+    {
+      "id": 32899,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 32900,
+      "topicName": "Hindi"
+    },
+    {
+      "id": 32931,
+      "topicName": "CDP"
+    },
+    {
+      "id": 32901,
+      "topicName": "History"
+    },
+    {
+      "id": 32925,
+      "topicName": "Geography"
+    },
+    {
+      "id": 32926,
+      "topicName": "Polity"
+    },
+    {
+      "id": 32927,
+      "topicName": "Economy"
+    },
+    {
+      "id": 32928,
+      "topicName": "Physics"
+    },
+    {
+      "id": 32929,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 32902,
+      "topicName": "Biology"
+    },
+    {
+      "id": 32903,
+      "topicName": "Current Affairs"
+    },
+    {
+      "id": 33022,
+      "topicName": "CDP (VOD)"
+    },
+    {
+      "id": 33023,
+      "topicName": "GS Practice"
+    },
+    {
+      "id": 33207,
+      "topicName": "Reas"
+    },
+    {
+      "id": 33208,
+      "topicName": "Previous Year Question Paper"
+    },
+    {
+      "id": 33209,
+      "topicName": "GS MCQs"
+    }
+  ]
+}
