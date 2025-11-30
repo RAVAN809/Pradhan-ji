@@ -1,0 +1,109 @@
+{
+  "batch_id": 3230,
+  "topics": [
+    {
+      "id": 33118,
+      "topicName": "Intro"
+    },
+    {
+      "id": 33142,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 33147,
+      "topicName": "TA/CDP"
+    },
+    {
+      "id": 34555,
+      "topicName": "CDP (VOD)"
+    },
+    {
+      "id": 33158,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 33159,
+      "topicName": "English"
+    },
+    {
+      "id": 33160,
+      "topicName": "Hindi"
+    },
+    {
+      "id": 33162,
+      "topicName": "Geography"
+    },
+    {
+      "id": 33161,
+      "topicName": "History"
+    },
+    {
+      "id": 33163,
+      "topicName": "Polity"
+    },
+    {
+      "id": 33164,
+      "topicName": "Physics"
+    },
+    {
+      "id": 33165,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 33166,
+      "topicName": "Biology"
+    },
+    {
+      "id": 33167,
+      "topicName": "ICT"
+    },
+    {
+      "id": 33168,
+      "topicName": "Current Affairs"
+    },
+    {
+      "id": 33895,
+      "topicName": "Computer (VOD)"
+    },
+    {
+      "id": 34484,
+      "topicName": "English (VOD)"
+    },
+    {
+      "id": 34485,
+      "topicName": "Reasoning (VOD)"
+    },
+    {
+      "id": 34486,
+      "topicName": "Hindi (VOD)"
+    },
+    {
+      "id": 34018,
+      "topicName": "History (VOD)"
+    },
+    {
+      "id": 34019,
+      "topicName": "Geography (VOD)"
+    },
+    {
+      "id": 34020,
+      "topicName": "Polity (VOD)"
+    },
+    {
+      "id": 34021,
+      "topicName": "Physics (VOD)"
+    },
+    {
+      "id": 34022,
+      "topicName": "Chemistry (VOD)"
+    },
+    {
+      "id": 34023,
+      "topicName": "Biology (VOD)"
+    },
+    {
+      "id": 34640,
+      "topicName": "Previous Year Paper"
+    }
+  ]
+}
