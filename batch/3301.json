@@ -1,0 +1,49 @@
+{
+  "batch_id": 3301,
+  "topics": [
+    {
+      "id": 34060,
+      "topicName": "Intro"
+    },
+    {
+      "id": 34038,
+      "topicName": "Rakesh Sir Maths"
+    },
+    {
+      "id": 34057,
+      "topicName": "Abhinay Sir Maths"
+    },
+    {
+      "id": 34039,
+      "topicName": "Gopal Sir English"
+    },
+    {
+      "id": 34058,
+      "topicName": "Jaideep Sir English"
+    },
+    {
+      "id": 34040,
+      "topicName": "Piyush Sir Reasoning"
+    },
+    {
+      "id": 34059,
+      "topicName": "Arun Sir Reasoning"
+    },
+    {
+      "id": 34041,
+      "topicName": "General Studies"
+    },
+    {
+      "id": 34053,
+      "topicName": "SSC Practice Batch"
+    },
+    {
+      "id": 34054,
+      "topicName": "VOD Batch"
+    },
+    {
+      "id": 34359,
+      "topicName": "Ankul Sir (English VOD)"
+    }
+  ]
+}
