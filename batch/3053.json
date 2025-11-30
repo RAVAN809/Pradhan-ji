@@ -1,0 +1,49 @@
+{
+  "batch_id": 3053,
+  "topics": [
+    {
+      "id": 31295,
+      "topicName": "English"
+    },
+    {
+      "id": 31296,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 31287,
+      "topicName": "History"
+    },
+    {
+      "id": 31288,
+      "topicName": "Geography"
+    },
+    {
+      "id": 31289,
+      "topicName": "Polity"
+    },
+    {
+      "id": 31290,
+      "topicName": "Economy"
+    },
+    {
+      "id": 31291,
+      "topicName": "Physics"
+    },
+    {
+      "id": 31292,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 31293,
+      "topicName": "Biology"
+    },
+    {
+      "id": 31294,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 32642,
+      "topicName": "Computer (VOD)"
+    }
+  ]
+}
