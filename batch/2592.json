@@ -1,0 +1,81 @@
+{
+  "batch_id": 2592,
+  "topics": [
+    {
+      "id": 26383,
+      "topicName": "Maths"
+    },
+    {
+      "id": 26384,
+      "topicName": "Reas"
+    },
+    {
+      "id": 28982,
+      "topicName": "Ancient History"
+    },
+    {
+      "id": 26388,
+      "topicName": "Med. History"
+    },
+    {
+      "id": 27126,
+      "topicName": "Modern History"
+    },
+    {
+      "id": 26385,
+      "topicName": "Indian Geography"
+    },
+    {
+      "id": 26878,
+      "topicName": "World Geography"
+    },
+    {
+      "id": 27442,
+      "topicName": "Polity"
+    },
+    {
+      "id": 28019,
+      "topicName": "Economy"
+    },
+    {
+      "id": 26707,
+      "topicName": "Physics"
+    },
+    {
+      "id": 26708,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 26709,
+      "topicName": "Biology"
+    },
+    {
+      "id": 26389,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 27158,
+      "topicName": "Art & Culture"
+    },
+    {
+      "id": 26387,
+      "topicName": "Traffic Rules"
+    },
+    {
+      "id": 26386,
+      "topicName": "Computer"
+    },
+    {
+      "id": 26793,
+      "topicName": "Maths Practice"
+    },
+    {
+      "id": 26635,
+      "topicName": "Computer Notes"
+    },
+    {
+      "id": 26542,
+      "topicName": "Calculation Capsule"
+    }
+  ]
+}
