@@ -1,0 +1,117 @@
+{
+  "batch_id": 3231,
+  "topics": [
+    {
+      "id": 33140,
+      "topicName": "Intro"
+    },
+    {
+      "id": 33143,
+      "topicName": "Syllabus"
+    },
+    {
+      "id": 34029,
+      "topicName": "Maths"
+    },
+    {
+      "id": 33269,
+      "topicName": "Maths (VOD)"
+    },
+    {
+      "id": 33283,
+      "topicName": "English"
+    },
+    {
+      "id": 33284,
+      "topicName": "Reasoning"
+    },
+    {
+      "id": 33286,
+      "topicName": "History"
+    },
+    {
+      "id": 33287,
+      "topicName": "Geography"
+    },
+    {
+      "id": 33288,
+      "topicName": "Polity"
+    },
+    {
+      "id": 33289,
+      "topicName": "Economy"
+    },
+    {
+      "id": 33290,
+      "topicName": "Physics"
+    },
+    {
+      "id": 33291,
+      "topicName": "Chemistry"
+    },
+    {
+      "id": 33292,
+      "topicName": "Biology"
+    },
+    {
+      "id": 33285,
+      "topicName": "Driver Portion"
+    },
+    {
+      "id": 33374,
+      "topicName": "Static GK"
+    },
+    {
+      "id": 33275,
+      "topicName": "Arith. (VOD)"
+    },
+    {
+      "id": 33270,
+      "topicName": "English (VOD)"
+    },
+    {
+      "id": 33271,
+      "topicName": "Reasoning (VOD)"
+    },
+    {
+      "id": 33276,
+      "topicName": "History (VOD)"
+    },
+    {
+      "id": 33277,
+      "topicName": "Geography (VOD)"
+    },
+    {
+      "id": 33278,
+      "topicName": "Polity (VOD)"
+    },
+    {
+      "id": 33279,
+      "topicName": "Economy (VOD)"
+    },
+    {
+      "id": 33280,
+      "topicName": "Physics (VOD)"
+    },
+    {
+      "id": 33281,
+      "topicName": "Chemistry (VOD)"
+    },
+    {
+      "id": 33282,
+      "topicName": "Biology (VOD)"
+    },
+    {
+      "id": 33272,
+      "topicName": "Driver Portion (VOD)"
+    },
+    {
+      "id": 33373,
+      "topicName": "Static GK (VOD)"
+    },
+    {
+      "id": 34318,
+      "topicName": "Computer (VOD)"
+    }
+  ]
+}
