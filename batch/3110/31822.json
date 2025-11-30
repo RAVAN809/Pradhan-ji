@@ -1,0 +1,658 @@
+{
+  "batchid": 3110,
+  "topicid": 31822,
+  "classes_total": 67,
+  "classes": [
+    {
+      "title": "Class-69 | Retirement of Partner",
+      "id": "4614439",
+      "date": "28-Nov-2025 15:00",
+      "video_url": "4614439_0_8511198809944927"
+    },
+    {
+      "title": "Class-68 | Retirement of Partner",
+      "id": "4613331",
+      "date": "27-Nov-2025 15:00",
+      "video_url": "4613331_0_6631341529849411"
+    },
+    {
+      "title": "Class-67 | Retirement of Partner",
+      "id": "4612271",
+      "date": "26-Nov-2025 15:00",
+      "video_url": "4612271_0_2285715867941325"
+    },
+    {
+      "title": "Class-66 | Retirement of Partner",
+      "id": "4611123",
+      "date": "25-Nov-2025 15:00",
+      "video_url": "4611123_0_9089463603394244"
+    },
+    {
+      "title": "Class-65 | Retirement of Partner",
+      "id": "4610022",
+      "date": "24-Nov-2025 15:00",
+      "video_url": "4610022_0_4904194177207722"
+    },
+    {
+      "title": "Class-64 | Retirement of Partner",
+      "id": "4608963",
+      "date": "22-Nov-2025 15:00",
+      "video_url": "4608963_0_9097011848751545"
+    },
+    {
+      "title": "Class-63 | Retirement of Partner",
+      "id": "4608142",
+      "date": "21-Nov-2025 15:00",
+      "video_url": "4608142_0_9631061550422921"
+    },
+    {
+      "title": "Class- 62 | Retirement of Partner",
+      "id": "4607154",
+      "date": "20-Nov-2025 15:00",
+      "video_url": "4607154_0_6918454694814787"
+    },
+    {
+      "title": "Class- 61 | Retirement of Partner",
+      "id": "4606110",
+      "date": "19-Nov-2025 15:00",
+      "video_url": "4606110_0_9260317994770971"
+    },
+    {
+      "title": "Class- 60 | Retirement of Partner",
+      "id": "4604962",
+      "date": "18-Nov-2025 15:00",
+      "video_url": "4604962_0_4606267640002412"
+    },
+    {
+      "title": "Class- 59 | Admission of Partner",
+      "id": "4603878",
+      "date": "17-Nov-2025 15:00",
+      "video_url": "4603878_0_5305031483398912"
+    },
+    {
+      "title": "Class- 58 | Admission of Partner",
+      "id": "4602880",
+      "date": "15-Nov-2025 15:00",
+      "video_url": "4602880_0_2467135730712819"
+    },
+    {
+      "title": "Class- 56 | Valuation of Goodwill",
+      "id": "4601020",
+      "date": "13-Nov-2025 15:00",
+      "video_url": "4601020_0_4301203937903250"
+    },
+    {
+      "title": "Class- 55 | Fundamental of Partnership",
+      "id": "4599989",
+      "date": "12-Nov-2025 15:00",
+      "video_url": "4599989_0_7439892870780523"
+    },
+    {
+      "title": "Class- 54 | Fundamental of Partnership",
+      "id": "4597653",
+      "date": "10-Nov-2025 15:00",
+      "video_url": "4597653_0_3973773271485125"
+    },
+    {
+      "title": "Class- 53 | Fundamental of Partnership",
+      "id": "4596337",
+      "date": "08-Nov-2025 15:15",
+      "video_url": "4596337_0_7948301285119645"
+    },
+    {
+      "title": "Class- 52 | Introduction of Partnership",
+      "id": "4595355",
+      "date": "07-Nov-2025 15:00",
+      "video_url": "4595355_0_1944636243134623"
+    },
+    {
+      "title": "Class- 51 | Final Accounts",
+      "id": "4594231",
+      "date": "06-Nov-2025 15:00",
+      "video_url": "4594231_0_7060306844208183"
+    },
+    {
+      "title": "Class- 50 | Final Accounts",
+      "id": "4593096",
+      "date": "05-Nov-2025 15:00",
+      "video_url": "4593096_0_8840493209698292"
+    },
+    {
+      "title": "Class- 49 | Final Accounts",
+      "id": "4592021",
+      "date": "04-Nov-2025 15:00",
+      "video_url": "4592021_0_3719212437416218"
+    },
+    {
+      "title": "Class- 48 | Final Accounts",
+      "id": "4590976",
+      "date": "03-Nov-2025 15:00",
+      "video_url": "4590976_0_8284408078285882"
+    },
+    {
+      "title": "Class- 47 | Final Accounts",
+      "id": "4588088",
+      "date": "30-Oct-2025 15:00",
+      "video_url": "4588088_0_1211333212757369"
+    },
+    {
+      "title": "Class- 46 | Final Accounts",
+      "id": "4587001",
+      "date": "29-Oct-2025 15:00",
+      "video_url": "4587001_0_2553392078249900"
+    },
+    {
+      "title": "Class- 45 | Final Accounts",
+      "id": "4585932",
+      "date": "28-Oct-2025 15:00",
+      "video_url": "4585932_0_3221037119583362"
+    },
+    {
+      "title": "Class- 44 | Final Accounts",
+      "id": "4584929",
+      "date": "27-Oct-2025 15:00",
+      "video_url": "4584929_0_3785466590360066"
+    },
+    {
+      "title": "Class- 43 | Financial Market",
+      "id": "4531817",
+      "date": "17-Oct-2025 17:00",
+      "video_url": "4531817_0_3129545938813253"
+    },
+    {
+      "title": "Class- 42 | Financial Market",
+      "id": "4530481",
+      "date": "17-Oct-2025 15:00",
+      "video_url": "4530481_0_9181692255256408"
+    },
+    {
+      "title": "Class- 41 | Money Theory",
+      "id": "4523617",
+      "date": "16-Oct-2025 15:00",
+      "video_url": "4523617_0_9914773424378551"
+    },
+    {
+      "title": "Class- 40 | Money Supply",
+      "id": "4522662",
+      "date": "15-Oct-2025 19:20",
+      "video_url": "4522662_0_6922808122337156"
+    },
+    {
+      "title": "Class- 39 | Cheque And Demand Draft",
+      "id": "4529992",
+      "date": "13-Oct-2025 17:00",
+      "video_url": "4529992_0_1729320984391697"
+    },
+    {
+      "title": "Class- 38 | Banking System",
+      "id": "4529533",
+      "date": "11-Oct-2025 17:00",
+      "video_url": "4529533_0_7214669539186877"
+    },
+    {
+      "title": "Class- 37 | Banking System",
+      "id": "4528872",
+      "date": "10-Oct-2025 17:00",
+      "video_url": "4528872_0_6096103226789287"
+    },
+    {
+      "title": "Class- 36 | Banking System",
+      "id": "4528336",
+      "date": "09-Oct-2025 17:00",
+      "video_url": "4528336_0_7228018248244753"
+    },
+    {
+      "title": "Class- 35 | Banking System",
+      "id": "4527029",
+      "date": "08-Oct-2025 17:00",
+      "video_url": "4527029_0_4081572992488289"
+    },
+    {
+      "title": "Class- 34 | Banking System",
+      "id": "4525947",
+      "date": "07-Oct-2025 17:00",
+      "video_url": "4525947_0_2172200493511781"
+    },
+    {
+      "title": "Class-33 | RBI",
+      "id": "4524755",
+      "date": "06-Oct-2025 17:00",
+      "video_url": "4524755_0_8436076747557266"
+    },
+    {
+      "title": "Class-32 | Accounting Standard 2",
+      "id": "4568134",
+      "date": "06-Oct-2025 12:15",
+      "video_url": "4568134_0_1159107549218970"
+    },
+    {
+      "title": "Class-31 | Accounting Standard 2",
+      "id": "4545908",
+      "date": "10-Sep-2025 15:00",
+      "video_url": "4545908_0_1975375964354119"
+    },
+    {
+      "title": "Class-30 | Accounting Standard 2",
+      "id": "4544972",
+      "date": "09-Sep-2025 15:00",
+      "video_url": "4544972_0_1849776902710771"
+    },
+    {
+      "title": "Class-29 | Accounting Standard 2",
+      "id": "4543993",
+      "date": "08-Sep-2025 15:00",
+      "video_url": "4543993_0_6807897574174888"
+    },
+    {
+      "title": "Class-28 | Accounting Standard 2",
+      "id": "4542279",
+      "date": "05-Sep-2025 15:00",
+      "video_url": "4542279_0_9368980283435858"
+    },
+    {
+      "title": "Class-27 | Accounting Standard 2",
+      "id": "4541203",
+      "date": "04-Sep-2025 15:00",
+      "video_url": "4541203_0_3806083251962639"
+    },
+    {
+      "title": "Class-26 | Accounting Standard 2",
+      "id": "4537730",
+      "date": "02-Sep-2025 15:00",
+      "video_url": "4537730_0_2884211206869948"
+    },
+    {
+      "title": "Class-25 | Accounting Standard 2",
+      "id": "4536640",
+      "date": "01-Sep-2025 15:00",
+      "video_url": "4536640_0_1682269496239926"
+    },
+    {
+      "title": "Class-24 | Accounting Standard 2",
+      "id": "4534532",
+      "date": "29-Aug-2025 15:00",
+      "video_url": "4534532_0_2951608710887638"
+    },
+    {
+      "title": "Class-23 | Accounting Standard 2",
+      "id": "4533429",
+      "date": "28-Aug-2025 15:00",
+      "video_url": "4533429_0_4155295299930748"
+    },
+    {
+      "title": "Class-22 | Accounting Standard 2",
+      "id": "4532173",
+      "date": "27-Aug-2025 15:00",
+      "video_url": "4532173_0_5200002653121769"
+    },
+    {
+      "title": "Class-21 | Accounting Standard 2",
+      "id": "4530859",
+      "date": "26-Aug-2025 15:00",
+      "video_url": "4530859_0_9988738799021869"
+    },
+    {
+      "title": "Class-20 | Accounting Standard 2",
+      "id": "4529709",
+      "date": "25-Aug-2025 15:00",
+      "video_url": "4529709_0_7133142622958685"
+    },
+    {
+      "title": "Class-18 | Accounting Standard 2",
+      "id": "4526396",
+      "date": "21-Aug-2025 15:00",
+      "video_url": "4526396_0_3686657473752488"
+    },
+    {
+      "title": "Class-17 | Accounting Standard 2",
+      "id": "4525226",
+      "date": "20-Aug-2025 15:00",
+      "video_url": "4525226_0_7356223040686305"
+    },
+    {
+      "title": "Class-16 | Accounting Standard 2",
+      "id": "4522981",
+      "date": "18-Aug-2025 15:00",
+      "video_url": "4522981_0_9934113006925346"
+    },
+    {
+      "title": "Class-15 | Accounting Standard 2",
+      "id": "4520905",
+      "date": "14-Aug-2025 15:00",
+      "video_url": "4520905_0_8550295132574766"
+    },
+    {
+      "title": "Class-14 | Accounting Standard 2",
+      "id": "4519539",
+      "date": "13-Aug-2025 15:00",
+      "video_url": "4519539_0_6030454824923981"
+    },
+    {
+      "title": "Class-13 | Accounting Standard 2",
+      "id": "4516939",
+      "date": "11-Aug-2025 15:00",
+      "video_url": "4516939_0_1773068281419692"
+    },
+    {
+      "title": "Class-12 | Accounting Standard 2",
+      "id": "4515889",
+      "date": "08-Aug-2025 15:00",
+      "video_url": "4515889_0_9110137866369260"
+    },
+    {
+      "title": "Class-11 | Accounting Standard 2",
+      "id": "4514037",
+      "date": "06-Aug-2025 15:00",
+      "video_url": "4514037_0_8773446974852384"
+    },
+    {
+      "title": "Class-10 | Accounting Standard 2",
+      "id": "4513007",
+      "date": "05-Aug-2025 15:00",
+      "video_url": "4513007_0_7112392612360149"
+    },
+    {
+      "title": "Class-9 | Accounting Standard 2",
+      "id": "4512058",
+      "date": "04-Aug-2025 15:00",
+      "video_url": "4512058_0_7123931936439575"
+    },
+    {
+      "title": "Class-8 | Accounting Standard 2",
+      "id": "4506694",
+      "date": "01-Aug-2025 15:00",
+      "video_url": "4506694_0_2662174469746628"
+    },
+    {
+      "title": "Class-7 | Accounting Standard 1",
+      "id": "4505295",
+      "date": "31-Jul-2025 15:00",
+      "video_url": "4505295_0_4011906553013156"
+    },
+    {
+      "title": "Class-6 | Introduction of Accounting Standard",
+      "id": "4504016",
+      "date": "30-Jul-2025 15:00",
+      "video_url": "4504016_0_3725255710586863"
+    },
+    {
+      "title": "Class-5 | Accounting Concepts and Conventions",
+      "id": "4502936",
+      "date": "29-Jul-2025 15:00",
+      "video_url": "4502936_0_1520436818425611"
+    },
+    {
+      "title": "Class-4 | Accounting Concepts and Conventions",
+      "id": "4495939",
+      "date": "28-Jul-2025 15:00",
+      "video_url": "4495939_0_8806642087258292"
+    },
+    {
+      "title": "Class-3 | Accounting Concepts and Conventions",
+      "id": "4493598",
+      "date": "25-Jul-2025 15:00",
+      "video_url": "4493598_0_7001467266336186"
+    },
+    {
+      "title": "Class-2 | Accounting Concepts and Conventions",
+      "id": "4492531",
+      "date": "24-Jul-2025 15:00",
+      "video_url": "4492531_0_6527150271799523"
+    },
+    {
+      "title": "Class-1 | History of Accounts",
+      "id": "4490887",
+      "date": "23-Jul-2025 15:00",
+      "video_url": "4490887_0_5311269335050324"
+    }
+  ],
+  "notes_total": 41,
+  "notes": [
+    {
+      "id": 746643,
+      "title": "Accounts | 27 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692aac7cda7cf_Commerce_3_PM_27_Nov_compressed.pdf",
+      "date": "29-Nov-2025"
+    },
+    {
+      "id": 746637,
+      "title": "Accounts | 28 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/692aabfa39951_Commerce_3_PM_28_Nov_compressed.pdf",
+      "date": "29-Nov-2025"
+    },
+    {
+      "id": 743192,
+      "title": "Accounts | 26 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926f2159d554_Commerce_3_PM_26_Nov_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 743190,
+      "title": "Accounts | 24 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926f1c949128_Commerce_24_Nov_3_PM_sec_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 743188,
+      "title": "Accounts | 25 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6926f16d54295_Commerce_3_PM_25_Nov_compressed.pdf",
+      "date": "26-Nov-2025"
+    },
+    {
+      "id": 739222,
+      "title": "Accounts | 22 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6923ebeb6acd2_Commerce_3_PM_22_Nov_compressed.pdf",
+      "date": "24-Nov-2025"
+    },
+    {
+      "id": 736177,
+      "title": "Accounts | 19 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691ec24c59d2b_Commerce_3_PM_19_Nov_compressed.pdf",
+      "date": "20-Nov-2025"
+    },
+    {
+      "id": 734844,
+      "title": "Accounts | 18 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/691d6e39c5e3e_Commerce_18_Nov_3_PM_DONE_compressed.pdf",
+      "date": "19-Nov-2025"
+    },
+    {
+      "id": 729931,
+      "title": "Accounts | 10 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6912cf2dab7bc_Pankaj_Sir_3PM_10th_Nov_compressed.pdf",
+      "date": "11-Nov-2025"
+    },
+    {
+      "id": 729142,
+      "title": "Accounts | 8 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69118aa1cd79c_Pankaj_Sir_3_PM_8th_Nov_compressed.pdf",
+      "date": "10-Nov-2025"
+    },
+    {
+      "id": 726179,
+      "title": "PGT Commerce | 6 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690de7d7ebd48_Pankaj_Sir_3PM_6th_Nov_compressed.pdf",
+      "date": "07-Nov-2025"
+    },
+    {
+      "id": 717349,
+      "title": "Accountancy Digital Board",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690c877c6d6f1_Accountancy_Digital_board.pdf",
+      "date": "06-Nov-2025"
+    },
+    {
+      "id": 715259,
+      "title": "Comm | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690b3b0da7925_5Commerce_3_PM_3_Nov_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 715242,
+      "title": "Comm | 30 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690b385774199_Commerce_3_PM_30_Oct_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713278,
+      "title": "Comm | 4 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ad6fbae81c_Commerce_3_PM_4_Nov_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 713276,
+      "title": "Comm | 3 Nov | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/690ad69f5a362_Commerce_3_PM_3_Nov_compressed.pdf",
+      "date": "05-Nov-2025"
+    },
+    {
+      "id": 706976,
+      "title": "Accounts | 29 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/69020aaa4a18f_Commerce_29_Oct_3_PM_Pankaj_Sir.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 706409,
+      "title": "Accounts | 28 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6901bdefa0f68_Commerce_3_PM_28_Oct_compressed.pdf",
+      "date": "29-Oct-2025"
+    },
+    {
+      "id": 703616,
+      "title": "Accounts | 27 Oct | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68ff61f794ad0_Commerce_27_Oct_Pankaj_Sir_compressed.pdf",
+      "date": "27-Oct-2025"
+    },
+    {
+      "id": 660919,
+      "title": "Accounts | 10 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c28d6768fba_Pankaj_Sir_10_Sep_3pm_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 660915,
+      "title": "Accounts | 9 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c28cd2d0109_Pankaj_Sir_9_Sep_3pm_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 660894,
+      "title": "Accounts | 8 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68c28c271e189_Pankaj_Sir_8_Sep_3pm_compressed.pdf",
+      "date": "11-Sep-2025"
+    },
+    {
+      "id": 650409,
+      "title": "Accounts | 5 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bad628ede8d_Pankaj_Sir_5_Sep_3pm_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 649509,
+      "title": "Accounts | 4 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68bab304ce38d_Pankaj_Sir_4_Sep_3pm_compressed.pdf",
+      "date": "05-Sep-2025"
+    },
+    {
+      "id": 647565,
+      "title": "Accounts | 2 Sept | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b7ea422a6e5_Pankaj_Sir_2_Sep_3pm_11zon.pdf",
+      "date": "03-Sep-2025"
+    },
+    {
+      "id": 643897,
+      "title": "Accounts | 29 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2dd1999ef7_Pankaj_Sir_29_Aug_3pm_compressed.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 643496,
+      "title": "Accounts | 28 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b29fed2f18e_Pankaj_Sir_28_Aug_3pm_compressed.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 641044,
+      "title": "Accounts | 27 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aef8992760d_Pankaj_Sir_27_Aug_3pm_compressed.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 640531,
+      "title": "Accounts | 26 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68aec615a712b_Pankaj_Sir_26_Aug_3pm_compressed.pdf",
+      "date": "27-Aug-2025"
+    },
+    {
+      "id": 643499,
+      "title": "Accounts | 25 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68b2a228702cd_Pankaj_Sir_3pm_25_Aug_compressed.pdf",
+      "date": "30-Aug-2025"
+    },
+    {
+      "id": 638501,
+      "title": "Accounts | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a9af54cbc8d_Pankaj_Sir_4pm_22_Aug_compressed_11zon.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 638373,
+      "title": "Accounts | 22 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a97f8a00297_Pankaj_Sir_3pm_22_Aug_compressed.pdf",
+      "date": "23-Aug-2025"
+    },
+    {
+      "id": 637664,
+      "title": "Accounts | 21 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a80e648a879_Pankaj_Sir_3pm_21_Aug_compressed.pdf",
+      "date": "22-Aug-2025"
+    },
+    {
+      "id": 636912,
+      "title": "Accounts | 20 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a6d786c1227_Pankaj_Sir_3pm_20_Aug.pdf",
+      "date": "21-Aug-2025"
+    },
+    {
+      "id": 633120,
+      "title": "Accounts | 18 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a402c5086ea_PGT_Com_pankaj_sir_18_aug_3pm_compressed.pdf",
+      "date": "19-Aug-2025"
+    },
+    {
+      "id": 628883,
+      "title": "Accounts | 14 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2cedcd1398_PGT_Com_pankaj_sir_14_aug_3pm_compressed.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 628879,
+      "title": "Accounts | 13 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/68a2ce2f4cce6_PGT_Com_pankaj_sir_13_aug_3pm_compressed.pdf",
+      "date": "18-Aug-2025"
+    },
+    {
+      "id": 621565,
+      "title": "Accounts | 11 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689b0a64edf8f_PGT_Commerce_3_PM_11_Aug.pdf",
+      "date": "12-Aug-2025"
+    },
+    {
+      "id": 620338,
+      "title": "Accounts | 08 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689996b30fd67_PGT_Commerce_3_PM_8_Aug_compressed.pdf",
+      "date": "11-Aug-2025"
+    },
+    {
+      "id": 617527,
+      "title": "Accounts | 05 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/689326d4b9ecc_PGT_Commerce_3_PM_5_Aug_compressed.pdf",
+      "date": "06-Aug-2025"
+    },
+    {
+      "id": 617514,
+      "title": "Accounts | 04 Aug | Class PNG",
+      "url": "https://cwmediabkt99.crwilladmin.com/92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/6893268fe1d8c_PGT_COMM_4_AUG_3_PM_compressed.pdf",
+      "date": "06-Aug-2025"
+    }
+  ]
+}
